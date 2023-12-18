@@ -345,7 +345,6 @@ color: var(--text-black-900);
     padding: 5px 15px;
     
 }
-
 .aside .nav li a.active
 {
 
@@ -538,9 +537,7 @@ margin-top: 30px ;
 .about .about-content .personal-info .buttons .btn 
 {
 
-    margin-right: 15px;
     margin-top: 10px;
-
 
 }
 
@@ -609,7 +606,6 @@ margin-top: 30px ;
 
 
 .about .about-content .education,
-
 .about .about-content .experience 
 {
 
@@ -1019,3 +1015,4 @@ margin-top: 30px ;
         max-width: 100%;
     }
 }
+
